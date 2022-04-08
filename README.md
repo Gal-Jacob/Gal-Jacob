@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Gal-Jacob
+- 👀 I’m interested in development systems and devops
+- 🌱 I’m currently learning devops
